@@ -1,5 +1,5 @@
 ---
-title: 'Become a Ninja'
+title: 'How to Become a Ninja'
 date: '2020-10-05'
 ---
 
