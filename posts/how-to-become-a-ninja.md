@@ -1,6 +1,6 @@
 ---
 title: 'Become a Ninja'
-date: '2020-10-5'
+date: '2020-10-05'
 ---
 
 If you want to be a ninja, you definitely need to watch all epsodes of Ninja Hattori Kun first. Ninja Hattori Kun would tells you everything you need to know to be a great ninja.
